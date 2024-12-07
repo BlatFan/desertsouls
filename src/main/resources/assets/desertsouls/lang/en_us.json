@@ -1,0 +1,16 @@
+{
+  "block.desertsouls.sun_altar": "Sun Altar",
+  "block.desertsouls.sun_pedestal": "Sun Pedestal",
+  "block.desertsouls.sun_bath": "Sun Bath",
+  
+  "effect.desertsouls.gins_blessing": "Gin's Blessing",
+  "effect.desertsouls.gins_curse": "Gin's Curse",
+  
+  "mod_description.desertsouls": "New Desert",
+  "link.desertsouls": "Site",
+  "title.desertsouls": "DesertSouls",
+  
+  "jade.desertsouls.sun_energy": "Sun Energy",
+  "jade.desertsouls.work": "Work",
+  "config.jade.plugin_desertsouls.sun": "Sun Bath"
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.blatfan.desertsouls.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "desertsouls.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ItemInHandRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
